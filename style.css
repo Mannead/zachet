@@ -92,7 +92,7 @@
 }
 
 .input {
-    background-image: url(/img/Vector.png);
+    background-image: url(../img/Vector.png);
     background-repeat: no-repeat;
     background-position: left;
     font-family: 'Poppins',sans-serif;
@@ -126,7 +126,7 @@
 }
 
 .Google {
-    background-image: url(/img/Group\ 1432.png);
+    background-image: url(../img/Group1432.png);
     background-repeat: no-repeat;
     background-position: left;
     border: none;
@@ -144,7 +144,7 @@
 }
 
 .Facebook{
-    background-image: url(/img/Group\ 1431.png);
+    background-image: url(../img/Group1431.png);
     background-repeat: no-repeat;
     background-position: left;
     border: none;
