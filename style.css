@@ -36,18 +36,17 @@
     padding: 0;
 }
 
-body {
+/* body {
     
-}
+} */
 
 .container {
     background: #160430;
     
 }
 
-.background {
-position: ;
-}
+/* .background {
+} */
 
 .logo {
     position: absolute;
@@ -120,16 +119,10 @@ position: ;
     border-radius: 20px;
     padding: 17px 193px;
     cursor: pointer;
-    animation: ;
     margin-bottom: 4px;
     border-bottom: 1px solid #727272;
     background-size: 200% 100%;
     transition: 0.5s;
-}
-
-
-.button:hover {
-    background-size: 100% 100%;
 }
 
 .Google {
